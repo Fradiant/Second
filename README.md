@@ -1,4 +1,6 @@
-# vue_230421
+# vue_upgradeDemo
+
+用于vue2.0升级至vue3.0的demo，结合文档完成升级过程
 
 > A Vue.js project
 
